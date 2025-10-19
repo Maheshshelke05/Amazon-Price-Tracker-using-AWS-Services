@@ -166,6 +166,8 @@ Test event create :
 Aur CloudWatch mein logs dekhein.
 
 ---
+## 💰 Output:- 
+![Code Implementation](img/test.png)
 
 ## 💰 Cost Breakdown
 

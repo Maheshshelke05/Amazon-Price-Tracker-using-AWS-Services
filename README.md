@@ -167,7 +167,7 @@ Aur CloudWatch mein logs dekhein.
 
 ---
 ## 💰 Output:- 
-![Code Implementation](img/test.png)
+![Code Implementation](img/test.jpg)
 
 ## 💰 Cost Breakdown
 
